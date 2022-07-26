@@ -1,4 +1,30 @@
 {
   "item.tutorialmod.shit": "Shit",
-  "item.tutorialmod.endium_ingot": "Endium Ingot"
+  "item.tutorialmod.endium_ingot": "Endium Ingot",
+  "item.tutorialmod.pale_ore": "Pale Ore",
+  "item.tutorialmod.refined_pale_ore": "Refined Pale Ore",
+  "item.tutorialmod.dowsing_rod": "Dowsing Rod",
+
+  "block.tutorialmod.endium_block": "Endium Block",
+  "block.tutorialmod.endium_ore": "Endium Ore",
+  "block.tutorialmod.pale_ore_block": "Pale Ore Block",
+  "block.tutorialmod.refined_pale_ore_block": "Refined Pale Ore Block",
+
+  "itemGroup.tutorialtab": "Pale Ore",
+  "itemGroup.tutorialtab2": "Endium",
+
+  "item.tutorialmod.dowsing_rod.no_valuables": "No Valuables Found!",
+
+  "item.tutorialmod.nail": "Nail",
+  "item.tutorialmod.pale_pickaxe": "Pale Pickaxe",
+  "item.tutorialmod.pale_axe": "Pale Axe",
+  "item.tutorialmod.pale_shovel": "Pale Shovel",
+  "item.tutorialmod.pale_hoe": "Pale Hoe",
+
+  "item.tutorialmod.sharpened_nail": "Sharpened Nail",
+  "item.tutorialmod.channelled_nail": "Channelled Nail",
+  "item.tutorialmod.coiled_nail": "Coiled Nail",
+  "item.tutorialmod.pure_nail": "Pure Nail",
+
+  "item.tutorialmod.mysterious_mushroom": "Mysterious Mushroom"
 }

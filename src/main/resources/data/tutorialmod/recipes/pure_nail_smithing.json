@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "tutorialmod:coiled_nail"
+  },
+  "addition": {
+    "item": "tutorialmod:refined_pale_ore"
+  },
+  "result": {
+    "item": "tutorialmod:pure_nail"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "tutorialmod:pale_ore_block"
+  },
+  "result": "tutorialmod:refined_pale_ore",
+  "experience": 0.7,
+  "cookingtime": 100
+}

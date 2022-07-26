@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "tutorialmod:refined_pale_ore"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:nail"
+  }
+}
