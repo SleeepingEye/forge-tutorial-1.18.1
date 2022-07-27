@@ -17,4 +17,10 @@ public class ModCreativeModeTab {
         }
     };
 
+    public static final CreativeModeTab TUTORIAL_TAB3 = new CreativeModeTab("tutorialtab3") {
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(ModItems.MYSTERIOUS_MUSHROOM.get());
+        }
+    };
 }

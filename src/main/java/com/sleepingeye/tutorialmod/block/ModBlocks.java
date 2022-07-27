@@ -33,7 +33,11 @@ public class ModBlocks {
                     .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.TUTORIAL_TAB);
 
     public static final RegistryObject<Block> REFINED_PALE_ORE_BLOCK = registerBlock("refined_pale_ore_block",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.TUTORIAL_TAB);
+
+    public static final RegistryObject<Block> RAW_PALE_ORE_BLOCK = registerBlock("raw_pale_ore_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.TUTORIAL_TAB);
 
     private static <T extends Block>RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {

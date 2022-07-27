@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:pale_ore"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:raw_pale_ore_block"
+  }
+}

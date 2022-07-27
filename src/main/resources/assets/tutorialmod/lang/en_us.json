@@ -8,10 +8,12 @@
   "block.tutorialmod.endium_block": "Endium Block",
   "block.tutorialmod.endium_ore": "Endium Ore",
   "block.tutorialmod.pale_ore_block": "Pale Ore Block",
+  "block.tutorialmod.raw_pale_ore_block": "Raw Pale Ore Block",
   "block.tutorialmod.refined_pale_ore_block": "Refined Pale Ore Block",
 
   "itemGroup.tutorialtab": "Pale Ore",
   "itemGroup.tutorialtab2": "Endium",
+  "itemGroup.tutorialtab3": "Food",
 
   "item.tutorialmod.dowsing_rod.no_valuables": "No Valuables Found!",
 
@@ -26,5 +28,16 @@
   "item.tutorialmod.coiled_nail": "Coiled Nail",
   "item.tutorialmod.pure_nail": "Pure Nail",
 
-  "item.tutorialmod.mysterious_mushroom": "Mysterious Mushroom"
+  "item.tutorialmod.mysterious_mushroom": "Mysterious Mushroom",
+
+  "tooltip.tutorialmod.nail.shift": "A Traditional Weapon of Hallownest",
+  "tooltip.tutorialmod.nail": "A Traditional Weapon of Hallownest",
+
+  "item.tutorialmod.shortbow": "Shortbow",
+  "item.tutorialmod.vengeful_spirit": "Vengeful Spirit",
+
+  "item.tutorialmod.pale_helmet": "Pale Helmet",
+  "item.tutorialmod.pale_chestplate": "Pale Chestplate",
+  "item.tutorialmod.pale_leggings": "Pale Leggings",
+  "item.tutorialmod.pale_boots": "Pale Boots"
 }
