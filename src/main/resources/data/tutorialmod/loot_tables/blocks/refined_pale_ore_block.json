@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tutorialmod:refined_pale_ore_block"
+          "name": "palenest:refined_pale_ore_block"
         }
       ],
       "conditions": [

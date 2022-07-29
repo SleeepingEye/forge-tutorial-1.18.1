@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "palenest:block/pale_ore_block" }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:baked_potato"
+  },
+  "result": "palenest:fried_potato",
+  "experience": 0.35,
+  "cookingtime": 200
+}

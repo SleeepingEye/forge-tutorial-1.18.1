@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "tutorialmod:raw_pale_ore_block"
+      "item": "palenest:raw_pale_ore_block"
     }
   ],
   "result": {
-    "item": "tutorialmod:pale_ore",
+    "item": "palenest:pale_ore",
     "count": 9
   }
 }

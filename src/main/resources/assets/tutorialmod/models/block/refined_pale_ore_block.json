@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures":{
-    "all": "tutorialmod:block/refined_pale_ore_block"
-  }
-}

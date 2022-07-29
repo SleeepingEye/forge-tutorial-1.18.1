@@ -10,10 +10,10 @@
       "item": "minecraft:iron_ingot"
     },
     "X": {
-      "item": "tutorialmod:refined_pale_ore"
+      "item": "palenest:refined_pale_ore"
     }
   },
   "result": {
-    "item": "tutorialmod:nail"
+    "item": "palenest:nail"
   }
 }

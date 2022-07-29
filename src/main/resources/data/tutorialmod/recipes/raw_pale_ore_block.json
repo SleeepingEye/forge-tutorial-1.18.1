@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "tutorialmod:pale_ore"
+      "item": "palenest:pale_ore"
     }
   },
   "result": {
-    "item": "tutorialmod:raw_pale_ore_block"
+    "item": "palenest:raw_pale_ore_block"
   }
 }

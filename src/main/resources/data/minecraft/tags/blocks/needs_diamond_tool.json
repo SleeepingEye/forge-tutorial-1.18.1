@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "tutorialmod:pale_ore_block",
-    "tutorialmod:raw_pale_ore_block",
-    "tutorialmod:refined_pale_ore_block"
+    "palenest:pale_ore_block",
+    "palenest:raw_pale_ore_block",
+    "palenest:refined_pale_ore_block"
   ]
 }

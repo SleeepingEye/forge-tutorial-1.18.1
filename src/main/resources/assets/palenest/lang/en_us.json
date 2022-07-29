@@ -1,0 +1,46 @@
+{
+  "item.palenest.shit": "Shit",
+  "item.palenest.endium_ingot": "Endium Ingot",
+  "item.palenest.pale_ore": "Pale Ore",
+  "item.palenest.refined_pale_ore": "Refined Pale Ore",
+  "item.palenest.dowsing_rod": "Dowsing Rod",
+
+  "block.palenest.endium_block": "Endium Block",
+  "block.palenest.endium_ore": "Endium Ore",
+  "block.palenest.pale_ore_block": "Pale Ore Block",
+  "block.palenest.raw_pale_ore_block": "Raw Pale Ore Block",
+  "block.palenest.refined_pale_ore_block": "Refined Pale Ore Block",
+
+  "itemGroup.tutorialtab": "Pale Ore",
+  "itemGroup.tutorialtab2": "Endium",
+  "itemGroup.tutorialtab3": "Food",
+
+  "item.palenest.dowsing_rod.no_valuables": "No Valuables Found!",
+
+  "item.palenest.nail": "Nail",
+  "item.palenest.pale_pickaxe": "Pale Pickaxe",
+  "item.palenest.pale_axe": "Pale Axe",
+  "item.palenest.pale_shovel": "Pale Shovel",
+  "item.palenest.pale_hoe": "Pale Hoe",
+
+  "item.palenest.sharpened_nail": "Sharpened Nail",
+  "item.palenest.channelled_nail": "Channelled Nail",
+  "item.palenest.coiled_nail": "Coiled Nail",
+  "item.palenest.pure_nail": "Pure Nail",
+
+  "item.palenest.mysterious_mushroom": "Mysterious Mushroom",
+  "item.palenest.pizza": "Pizza",
+  "item.palenest.fried_potato": "Fried Potato",
+  "item.palenest.french_fries": "French Fries",
+
+  "tooltip.palenest.nail.shift": "A Traditional Weapon of Hallownest",
+  "tooltip.palenest.nail": "A Traditional Weapon of Hallownest",
+
+  "item.palenest.shortbow": "Shortbow",
+  "item.palenest.vengeful_spirit": "Vengeful Spirit",
+
+  "item.palenest.pale_helmet": "Pale Helmet",
+  "item.palenest.pale_chestplate": "Pale Chestplate",
+  "item.palenest.pale_leggings": "Pale Leggings",
+  "item.palenest.pale_boots": "Pale Boots"
+}
